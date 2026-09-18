@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge",
+  "description": "AI Personal Learning Path Generator helping students and job seekers master the exact skills needed for their dream careers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
